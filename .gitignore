@@ -153,6 +153,8 @@ cython_debug/
 
 
 # My Additions:
+.DS_Store
+
 week_01/2_docker_sql/ny_taxi_postgres_data
 week_01/2_docker_sql/yellow_tripdata_2021-01.csv
 week_01/2_docker_sql/output.csv.gz
